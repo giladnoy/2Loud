@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:9:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\GiladNoy\.android\build-cache\3007c524230ecc4195bf6447123f9bb8b12c20a3\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\GiladNoy\.android\build-cache\c3c2f82e8c80a07c3e6a03fd376b8895bc21790d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\GiladNoy\.android\build-cache\bc94e00d6b2eb3fcaf32f9e5be9833d19a9a9e31\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:preference-v7:23.4.0] C:\Users\GiladNoy\.android\build-cache\5128f81a9596ba6b78896d970d3cc739bb2140d4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GiladNoy\.android\build-cache\4e0984882bddfdd52e763d97a1129d14e88381c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\GiladNoy\.android\build-cache\e17f742cce5cc435a3975d94e7316e5cfce21fee\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\GiladNoy\.android\build-cache\d7034dd0a44843d92dbb1aa6052c6c34a5e5e263\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\GiladNoy\.android\build-cache\2ce3a08d424758811d72b798389dde7db9c216b0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\GiladNoy\.android\build-cache\3ab0f729968e51ea1f224e6981577fe824b1d750\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\GiladNoy\.android\build-cache\72f85c85ba104cfc0a52f95dea8ab3c71ed833c0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\GiladNoy\.android\build-cache\d6781f4e26801f34c8b698247e425f524da67a8d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\GiladNoy\.android\build-cache\6a35b97c980538dab0fcb655637541837f5c2f9c\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\GiladNoy\.android\build-cache\557a9ed2799c27477497367e03157604dd62f482\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:13:9-48
+	android:allowBackup
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.giladnoy.a2loud.MainActivity
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.giladnoy.a2loud.PrefActivity
+ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:23:9-27:20
+	android:parentActivityName
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml:24:13-41
+uses-sdk
+INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\GiladNoy\.android\build-cache\3007c524230ecc4195bf6447123f9bb8b12c20a3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\GiladNoy\.android\build-cache\c3c2f82e8c80a07c3e6a03fd376b8895bc21790d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\GiladNoy\.android\build-cache\bc94e00d6b2eb3fcaf32f9e5be9833d19a9a9e31\output\AndroidManifest.xml:20:5-44
+MERGED from [com.pavelsikun:material-seekbar-preference:2.3.0] C:\Users\GiladNoy\.android\build-cache\8b4429424cc8abd0c9a12504d9ab94cc1483ad55\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:preference-v7:23.4.0] C:\Users\GiladNoy\.android\build-cache\5128f81a9596ba6b78896d970d3cc739bb2140d4\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\GiladNoy\.android\build-cache\333a3e3f327a4cba5e308b59a12ff69b3618f63d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GiladNoy\.android\build-cache\4e0984882bddfdd52e763d97a1129d14e88381c4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\GiladNoy\.android\build-cache\e17f742cce5cc435a3975d94e7316e5cfce21fee\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\GiladNoy\.android\build-cache\d7034dd0a44843d92dbb1aa6052c6c34a5e5e263\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\GiladNoy\.android\build-cache\2ce3a08d424758811d72b798389dde7db9c216b0\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\GiladNoy\.android\build-cache\3ab0f729968e51ea1f224e6981577fe824b1d750\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\GiladNoy\.android\build-cache\72f85c85ba104cfc0a52f95dea8ab3c71ed833c0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\GiladNoy\.android\build-cache\d6781f4e26801f34c8b698247e425f524da67a8d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\GiladNoy\.android\build-cache\6a35b97c980538dab0fcb655637541837f5c2f9c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\GiladNoy\.android\build-cache\557a9ed2799c27477497367e03157604dd62f482\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\GiladNoy\.android\build-cache\c3c2f82e8c80a07c3e6a03fd376b8895bc21790d\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GiladNoy\AndroidStudioProjects\2Loud\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\GiladNoy\.android\build-cache\c3c2f82e8c80a07c3e6a03fd376b8895bc21790d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\GiladNoy\.android\build-cache\bc94e00d6b2eb3fcaf32f9e5be9833d19a9a9e31\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\GiladNoy\.android\build-cache\333a3e3f327a4cba5e308b59a12ff69b3618f63d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GiladNoy\.android\build-cache\4e0984882bddfdd52e763d97a1129d14e88381c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\GiladNoy\.android\build-cache\d7034dd0a44843d92dbb1aa6052c6c34a5e5e263\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\GiladNoy\.android\build-cache\2ce3a08d424758811d72b798389dde7db9c216b0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\GiladNoy\.android\build-cache\3ab0f729968e51ea1f224e6981577fe824b1d750\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\GiladNoy\.android\build-cache\72f85c85ba104cfc0a52f95dea8ab3c71ed833c0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\GiladNoy\.android\build-cache\d6781f4e26801f34c8b698247e425f524da67a8d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\GiladNoy\.android\build-cache\6a35b97c980538dab0fcb655637541837f5c2f9c\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\GiladNoy\.android\build-cache\557a9ed2799c27477497367e03157604dd62f482\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\GiladNoy\.android\build-cache\c3c2f82e8c80a07c3e6a03fd376b8895bc21790d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\GiladNoy\.android\build-cache\c3c2f82e8c80a07c3e6a03fd376b8895bc21790d\output\AndroidManifest.xml:26:9-47

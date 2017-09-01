@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sample="http://schemas.android.com/apk/res-auto">>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="Vibration"
+        android:title="Toggle vibration" />
+    <EditTextPreference
+        android:defaultValue="500"
+        android:inputType="number"
+        android:key="editVibe"
+        android:numeric="integer"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Vibration duration in milli seconds"
+        sample:defaultValue="500"
+        sample:key="editVibe"
+        sample:summary="in milli seconds"
+        sample:title="Vibration duration" />
+    <!--<SeekBarPreference
+        android:key="editVibe"
+        android:title="Vibration length"
+        android:summary="in Milli seconds"
+        android:max="10000"
+        android:defaultValue="500" />-->
+    <EditTextPreference
+        android:defaultValue="80"
+        android:key="editMax"
+        android:numeric="integer"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Sound Limit in decibels"
+        sample:defaultValue="80"
+        sample:key="editMax"
+        sample:title="Sound Limit" />
+    <RingtonePreference
+        android:defaultValue=""
+        android:key="editSound"
+        android:ringtoneType="notification"
+        android:title="Choose alarm sound"
+        sample:key="editSound" />
+    <EditTextPreference
+        android:defaultValue="100"
+        android:key="editVol"
+        android:numeric="integer"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Set alarm volume (0-100)"
+        sample:key="editVol"
+        sample:title="Set alarm volume" />
+    <!--<com.pavelsikun.seekbarpreference.SeekBarPreference
+        android:defaultValue="500"
+        android:enabled="true"
+        android:key="editVibe"
+        android:summary="Vibration duration in milli seconds"
+        android:title="Vibration duration"
+        sample:enabled="true"
+        sample:msbp_dialogEnabled="false"
+        sample:msbp_interval="200"
+        sample:msbp_maxValue="10000"
+        sample:msbp_measurementUnit=""
+        sample:msbp_minValue="100" />
+    <com.pavelsikun.seekbarpreference.SeekBarPreference
+        android:defaultValue="80"
+        android:enabled="true"
+        android:key="editMax"
+        android:summary="The maximum allowed volume before being alarmed"
+        android:title="Sound Limit"
+
+        sample:enabled="true"
+        sample:msbp_dialogEnabled="false"
+        sample:msbp_interval="10"
+        sample:msbp_maxValue="200"
+        sample:msbp_measurementUnit=""
+        sample:msbp_minValue="50" />-->
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\GiladNoy\\AndroidStudioProjects\\2Loud\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\GiladNoy\\AndroidStudioProjects\\2Loud\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\GiladNoy\\AndroidStudioProjects\\2Loud\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\GiladNoy\\AndroidStudioProjects\\2Loud\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\GiladNoy\\AndroidStudioProjects\\2Loud\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\monkey_icon.png",
+        "source": "C:\\Users\\GiladNoy\\AndroidStudioProjects\\2Loud\\app\\src\\main\\res\\mipmap-xxhdpi\\monkey_icon.png"
+    }
+]
